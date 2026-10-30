@@ -1,0 +1,9 @@
+== D2s_x4 run 1
+requests=10 failed=3 avg=35641ms min=18912ms max=56644ms total=265.0s codes=[200, 200, 200, 'ERR', 200, 'ERR', 200, 'ERR', 200, 200]
+== D2s_x4 run 2
+requests=10 failed=3 avg=30641ms min=19080ms max=38080ms total=246.0s codes=[200, 200, 200, 'ERR', 200, 200, 'ERR', 200, 'ERR', 200]
+== D2s_x4 run 3
+requests=10 failed=3 avg=34331ms min=19205ms max=47488ms total=264.9s codes=[200, 200, 200, 'ERR', 200, 200, 'ERR', 200, 'ERR', 200]
+== D2s_x4 run 4
+requests=10 failed=3 avg=32518ms min=18957ms max=56391ms total=255.4s codes=[200, 200, 200, 'ERR', 200, 200, 'ERR', 200, 200, 'ERR']
+# fallos: read ECONNRESET. T4=02:53:25Z

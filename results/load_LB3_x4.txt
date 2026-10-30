@@ -1,0 +1,9 @@
+== LB3_x4 run 1
+requests=10 failed=1 avg=11263ms min=10159ms max=19927ms total=112.0s codes=[200, 200, 200, 200, 200, 200, 200, 'ERR', 200, 200]
+== LB3_x4 run 2
+requests=10 failed=0 avg=11541ms min=10490ms max=20495ms total=115.7s codes=[200, 200, 200, 200, 200, 200, 200, 200, 200, 200]
+== LB3_x4 run 3
+requests=10 failed=1 avg=9716ms min=8826ms max=17166ms total=96.5s codes=[200, 200, 200, 200, 'ERR', 200, 200, 200, 200, 200]
+== LB3_x4 run 4
+requests=10 failed=3 avg=15603ms min=8830ms max=22639ms total=129.3s codes=[200, 'ERR', 200, 200, 'ERR', 200, 200, 'ERR', 200, 200]
+# fallos: read ECONNRESET. B0=03:40:42Z B1=03:42:56Z

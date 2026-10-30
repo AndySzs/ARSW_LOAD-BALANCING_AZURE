@@ -1,0 +1,5 @@
+== LB3_x2 run 1
+requests=10 failed=0 avg=10197ms min=10116ms max=10357ms total=102.2s codes=[200, 200, 200, 200, 200, 200, 200, 200, 200, 200]
+== LB3_x2 run 2
+requests=10 failed=0 avg=10217ms min=10146ms max=10366ms total=102.6s codes=[200, 200, 200, 200, 200, 200, 200, 200, 200, 200]
+# A0=03:37:58Z A1=03:39:42Z

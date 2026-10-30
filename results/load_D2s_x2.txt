@@ -1,0 +1,7 @@
+== D2s_x2 run 1
+requests=10 failed=4 avg=15736ms min=10038ms max=19659ms total=126.5s codes=[200, 'ERR', 200, 200, 'ERR', 200, 200, 'ERR', 200, 'ERR']
+  fail: read ECONNRESET (x4)
+== D2s_x2 run 2
+requests=10 failed=2 avg=15051ms min=9999ms max=19566ms total=137.1s codes=[200, 200, 200, 'ERR', 200, 200, 'ERR', 200, 200, 200]
+  fail: read ECONNRESET (x2)
+# T1=02:45:56Z  T2=02:48:15Z
